@@ -13,7 +13,7 @@ public class CardLayoutManager {
 	//Main method
 	//throws the three because of music related imports
 	public static void main(String[] args) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
-		
+		System.out.println("test");
 		//Set JFrame properties
 		mainWindow.setSize(720, 820);
 		mainWindow.setVisible(true);
